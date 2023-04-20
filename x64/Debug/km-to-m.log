@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\km-to-m\km-to-m\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ant\Desktop\Programming\Projects\2023\km-to-m\km-to-m\main.cpp(9,9): warning C4101: 'm': unreferenced local variable
+  km-to-m.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\km-to-m\x64\Debug\km-to-m.exe
